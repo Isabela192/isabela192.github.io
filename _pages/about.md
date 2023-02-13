@@ -1,8 +1,12 @@
 ---
 permalink: /about/
-title: "About"
+title: "Hey There, Hello!  👋"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome! My name is **Isabela**, I'm a meteorologist by formation and a programmer for, I like to believe, vocation. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+If you came here looking for a well-themed, well-structured blog where things make sense... Sorry, go back 😢
+
+This blog has a little bit of everything. I hope that you find something interesting.
+
+I'm currently working at IBM as a Software developer. My main fields of action are developing REST APIs with Python, and managing DB2 databases and some IBM cloud services.
