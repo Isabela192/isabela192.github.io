@@ -70,8 +70,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Isabela192"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/isa-siqueira/"
 
 footer:
   links:
@@ -82,8 +82,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Isabela192"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/isa-siqueira/"
 
 defaults:
   # _posts
