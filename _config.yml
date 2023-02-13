@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "RainbowSparks"
   avatar : "/assets/images/bio-photo.webp"
-  bio    : "I'm a programmer that not always love to program..."
+  bio    : "*I'm a programmer that not always love to program...*"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

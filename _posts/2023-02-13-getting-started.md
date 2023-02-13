@@ -6,7 +6,7 @@ categories:
 tags:
   - New Years Resolutions
 ---
-![Header](/assets/images/start.png)
+![Header](/assets/images/post_images/start.png)
 # So the Year Already Started 🎉
 
 I know it's February and maybe I'm kinda late to the New Year's resolutions party however, I finally got the courage to do what I've been planing for two years.
