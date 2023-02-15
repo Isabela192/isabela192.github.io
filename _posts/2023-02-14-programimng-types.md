@@ -1,12 +1,11 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Programming Paradigms"
 date: 2023-02-14
 categories:
   - tech
 tags:
   - Programming
 ---
-# Programming Paradigms
 
 ❤️ *HAPPY VALENTINE'S DAY* ❤️
 
