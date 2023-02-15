@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/bio-photo.webp"
   bio    : "*I'm a programmer that not always love to program...*"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/IsaZord01"
