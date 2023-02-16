@@ -34,13 +34,13 @@ There are a **LOT** of different paradigms. Essentially, we have five major ones
 Can be called imperative paradigm. Consists of writing code as a sequence of tasks executed from top to bottom. Each task is followed by another one and may contain loops, conditional statements, and subroutines that control the flow of execution. 
 Examples of this are [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), and [Fortran](https://en.wikipedia.org/wiki/Fortran). (Even if you may write the functions for a Fortran routine at the end of the main code, the compile process will pre-compile those and call these functions when needed, like decorators in Python).
 
-- As you may have noticed, this is one of the earliest types of programming that exists, and it sticks around since:
+As you may have noticed, this is one of the earliest types of programming that exists, and it sticks around since:
 - They are portable;
 - Simple to code and implement;
 - You can apply DRY since you can define a function and reuse it throughout the code
 Since it is a top-down approach, you can easily follow the flow and track bugs.
 
-A simple Fortran program would be like:
+A simple Fortran program would look like:
 
 ````fortran
 program hello
@@ -52,7 +52,8 @@ end program hello
 
 As the name suggests, it is based on logic. It deals with symbols and relationships between them. [Prolog](https://en.wikipedia.org/wiki/Prolog) and [SQl](https://en.wikipedia.org/wiki/SQL) are good examples of this paradigm.
 
-- The main takeaways from this type of paradigm are;
+The main takeaways from this type of paradigm are:
+
 - The code gets more flexible since it depends on the logic, not the order; 
 - This makes the program easier to understand since it follows logical thinking.
 
@@ -71,6 +72,7 @@ The program consists of *pure functions*. You input the arguments list, and the 
 The thing is, in functional programming, the data is immutable. So, unlike Python, where you may have a global variable being used in a function, this does not occur here. This is like the anti-OOP since states can't be shared.
 
 That means that the return of the function is dependent on the input. BTW, this is one of the main takeaways from Functional Programming.
+
 The other ones are:
 - Recursion: the function can call itself during its execution. This allows the  repetition of the process several times, ending with the output;
 - Variables are immutable, so you can't modify them after the code started;
@@ -88,7 +90,7 @@ A very elegant way to say `Hello World`in Lisp:
 
 *Objects!* They are instances of classes that represent real-world entities.
 Alone, classes don't do much but can help create a template for the objects. Now objects can encapsulate states and behaviors. They also interact with each other and hold data.
-Some essential features of OOP are encapsulation which gives you a clean code without declaring every representation of each object. Inheritance, which allows you to generate classes from other classes sharing the same attributes (do not abuse this power).
+Some essential features of OOP are encapsulation which gives you a clean code without declaring every representation of each object. Inheritance, which allows you to generate classes from other classes sharing the same attributes (do not abuse this power, please).
 Other cool things that come with OOP are:
 - You can simplify how you represent your data by representing a whole from a part;
 - Basically, you are getting the best things from procedural and functional paradigms. That means: writing faster code with less repetition.
@@ -101,9 +103,13 @@ class School:
     self.student = student
     self.subject = subject
 ````
+And to say `Hello World` one would simply call:
 
+`````Python
+print("Hello World")
+`````
 ### Also...
-As an honorable mention to Declarative Paradigm, this one is based on writing out what you want and letting the computer do the heavy lifting. A good example of that is SQL.
+An honorable mention to Declarative Paradigm, this one is based on writing out what you want and letting the computer do the heavy lifting. A good example of that is SQL.
 
 ### In conclusion
 
